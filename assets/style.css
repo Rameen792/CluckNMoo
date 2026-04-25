@@ -1,3 +1,48 @@
 html{
     scroll-behavior: smooth;
 }
+
+/* ------NAVBAR SECTION----- */
+
+.navbar{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    padding: 20px 0;
+}
+
+.logo-text{
+    color: #ff6b00;
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+.logo-text:hover{
+    color: #ff6b00;
+}
+
+.nav-custom-link{
+    color: white;
+    margin-left: 20px;
+    font-size: 17px;
+    letter-spacing: 0.8px;
+}
+
+.nav-custom-link:hover{
+    color: #ff6b00;
+}
+
+.order-btn{
+    background-color: #ff6b00;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-left: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.order-btn:hover{
+    background-color: #ff8c42;
+    color: white;
+}
